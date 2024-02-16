@@ -1,6 +1,6 @@
 ## Hi, I'm Danylo 👋
 
-I'm Danylo Trutniev a Frontend Developet with more than 1.5 years of experience. 
+I'm Danylo Trutniev a Frontend Developer with more than 1.5 years of experience. 
 
 :mailbox: Reach me out!
  
