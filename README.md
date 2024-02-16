@@ -1,6 +1,6 @@
 ## Hi, I'm Danylo 👋
 
-I'm Danylo Trutniev a Frontend Developet with more than 1.5 years of experience. Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
+I'm Danylo Trutniev a Frontend Developet with more than 1.5 years of experience. 
 
 :mailbox: Reach me out!
  
