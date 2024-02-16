@@ -48,10 +48,10 @@ I'm Danylo Trutniev a Frontend Developet with more than 1.5 years of experience.
 <br/>
 
 ### My stats ⭐
- 
+
 <div align="center">
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=campot05&show=reviews,prs_merged,prs_merged_percentage&hide=issues"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </div>
 
  
