@@ -5,7 +5,7 @@ I'm Danylo Trutniev a Frontend Developet with more than 1.5 years of experience.
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Danylo_Trutniev-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-trutniev/) 
-[![Telegran_Badge](https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/maksym_rudnyi/) 
+[![Telegran_Badge](https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=telegram&logoColor=white)](https://www.instagram.com/maksym_rudnyi/) 
 [![Mail Badge](https://img.shields.io/badge/-Danylo_Trutniev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:d.trutniev@gmail.com)
 
 #### Top Technologies
