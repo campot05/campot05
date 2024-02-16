@@ -37,16 +37,8 @@ I'm Danylo Trutniev a Frontend Developet with more than 1.5 years of experience.
  
 
 ### Business
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/14aYU0DsWZuW0IBDW6pTvFUP6x_p1GJfE/view?usp=sharing)
+:paperclip: [My Resume/CV](https://drive.google.com/file/d/14aYU0DsWZuW0IBDW6pTvFUP6x_p1GJfE/view?usp=sharing)
 
-<br/>
-
-### My stats ⭐
-
-<div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=campot05&show=reviews,prs_merged,prs_merged_percentage&hide=issues,stars"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-</div>
-
+ 
  
 
