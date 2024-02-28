@@ -36,8 +36,6 @@ I'm Danylo Trutniev a Frontend Developer with more than 1.5 years of experience.
 
  
 
-### Business
-:paperclip: [My Resume/CV](https://drive.google.com/file/d/14aYU0DsWZuW0IBDW6pTvFUP6x_p1GJfE/view?usp=sharing)
 
  
  
